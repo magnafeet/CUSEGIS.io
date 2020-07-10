@@ -1,3 +1,3 @@
 # CUSEGIS.io
 Test of ArcGIS JS api
-permalink: /index2.html
+permalink: https://magnafeet.github.io/CUSEGIS.io/index2.html
